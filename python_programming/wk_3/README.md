@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # File Processing Script
 
 This project contains a Python script (`openfile.py`) that performs the following tasks:
@@ -20,3 +21,10 @@ This project contains a Python script (`openfile.py`) that performs the followin
 2. Run the script using Python:
    ```bash
    python openfile.py
+=======
+# Calculate the discount for a given price and discount percentage
+
+## Task
+1. Create a function named calculate_discount(price, discount_percent) that calculates the final price after applying a discount. The function should take the original price (price) and the discount percentage (discount_percent) as parameters. If the discount is 20% or higher, apply the discount; otherwise, return the original price.
+2. Using the calculate_discount function, prompt the user to enter the original price of an item and the discount percentage. Print the final price after applying the discount, or if no discount was applied, print the original price.
+>>>>>>> ec0c3ab0490f29a02f50e91f7211d8ccc212af8d
